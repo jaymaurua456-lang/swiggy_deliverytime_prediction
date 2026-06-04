@@ -1,7 +1,7 @@
 ![Swiggy Banner](swiggy.png.png)
 # 🍔 Swiggy Food Delivery Time Prediction Model & Web App
 
-![Swiggy Food Delivery Banner](https://images.unsplash.com/photo-1526367790999-0150786486a2?auto=format&fit=crop&w=1200&q=80)
+
 
 ---
 
