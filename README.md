@@ -39,7 +39,3 @@ Data preprocessing involved handling missing values, encoding categorical variab
 
 ---
 
-### 📁 How to Run Locally
-1. Clone this repository: `git clone <your-repo-link>`
-2. Install dependencies: `pip install -r requirements.txt`
-3. Run the application: `streamlit run app.py`
